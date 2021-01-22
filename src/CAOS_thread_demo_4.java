@@ -1,4 +1,7 @@
-public class CAOS_thread_demo_4 extends Thread
+public class
+
+
+CAOS_thread_demo_4 extends Thread
 {
     public static int counter = 0;
     private String myBla;
